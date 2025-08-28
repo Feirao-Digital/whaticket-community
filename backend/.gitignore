@@ -3,6 +3,10 @@ public/*
 dist
 !public/.gitkeep
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 .env.test
 
 package-lock.json
