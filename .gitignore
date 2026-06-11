@@ -350,5 +350,6 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
+wwebjs_cache
 
 /src/01 Frontends/FeiraoDigitalOnline.Frontends.Web/wwwroot/ImageStorage
